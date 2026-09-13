@@ -82,7 +82,7 @@ geospatial techniques to help solve real-world challenges across a multitude of 
     ---
 
     - ArcGIS Experience Builder, ArcGIS Dashboard, ArcGIS Field Maps, ArcGIS Survey 123
-    - GitHub, Visual Studio Code
+    - GitHub, Visual Studio Code, MkDocs
     - HTML, CSS, JavaScript, Markdown
 
 -   :material-code-braces:{ .lg .middle } **Analytics & Automation**
