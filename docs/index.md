@@ -19,10 +19,10 @@ CHECKLIST FOR THIS PAGE:
 
 
 <div class="hero">
-  <img src="assets/images/profile.png" alt="[YOUR NAME]" class="profile-photo">
-  <h1>[YOUR NAME]</h1>
-  <p><strong>[YOUR JOB TITLE]</strong></p>
-  <p><em>[YOUR TAGLINE — e.g., Turning spatial data into insights | GIS | Remote Sensing | Python]</em></p>
+  <img src="assets/images/profile.png" alt="Marc Gaeta" class="profile-photo">
+  <h1>Marc Gaeta</h1>
+  <p><strong>GIS Analyst / Planner</strong></p>
+  <p><em>Seeking new and exciting opportunities in spatial analysis and planning.</em></p>
 </div>
 
 ---
@@ -36,11 +36,10 @@ CHECKLIST FOR THIS PAGE:
 what you specialize in, the kinds of problems you work on, the tools and methods you use,
 and what you are currently looking for. Example below:]
 
-I am a geospatial data scientist with a background in remote sensing and machine learning.
+I am a geospatial analyst with a background in data analysis, cartography, and human geography.
 I work on extracting actionable insights from satellite imagery and large spatial datasets
 using Python, Google Earth Engine, and open-source GIS tools. I am passionate about applying
-GeoAI techniques to real-world challenges in land use mapping, climate monitoring, and urban
-planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TARGET LOCATION].
+geospatial techniques to help solve real-world challenges across a multitude of fields. I am currently seeking opportunities in which I can leverage my exisintg skills, as well as develop new ones.
 
 </div>
 
@@ -53,7 +52,7 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 ---
 
 [View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
-[Download CV :material-download:](assets/[YOUR-NAME]-CV.pdf){ .md-button }
+[Download CV :material-download:](assets/Marc-CV.pdf){ .md-button }
 
 
 ---
@@ -62,55 +61,37 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
 <div class="grid cards" markdown>
 
--   :material-layers:{ .lg .middle } **GIS & Remote Sensing**
+-   :material-database:{ .lg .middle } **Database Administration**
 
     ---
 
-    - QGIS, ArcGIS Pro, Google Earth Engine
-    - GDAL / OGR, GRASS GIS
-    - Multispectral and SAR image analysis
-    - Cloud Native Geospatial (COG, STAC, Zarr)
+    - ArcGIS Online, ArcGIS Enterprise
+    - Microsoft SQL Server, Microsoft Access
+    - SQL, CSV, JSON, XML
 
--   :material-code-braces:{ .lg .middle } **Programming**
-
-    ---
-
-    - Python — GeoPandas, NumPy, Pandas, Matplotlib
-    - R — sf, terra, ggplot2
-    - JavaScript — Leaflet, MapLibre GL
-    - SQL, PostgreSQL + PostGIS
-
--   :material-star-four-points:{ .lg .middle } **Machine Learning & GeoAI**
+-   :material-layers:{ .lg .middle } **Mapping & Cartography**
 
     ---
 
-    - Supervised classification — Random Forest, XGBoost
-    - Deep learning for image segmentation — U-Net, SAM
-    - scikit-learn, PyTorch, TensorFlow
-    - Object detection in satellite imagery
+    - ArcGIS Pro, QGIS, Leaflet.js, Google My Maps, ArcGIS Urban
+    - Heads-up Digitizing, Georeferencing, Field Mapping
+    - Shapefile, File Geodatabase, KML, GeoTIFF
 
--   :material-earth:{ .lg .middle } **Web Mapping & Data**
-
-    ---
-
-    - Leaflet.js, Folium, MapLibre GL JS
-    - Cloud storage — AWS S3, Google Cloud Storage
-    - Data formats — GeoTIFF, GeoParquet, NetCDF
-    - Streamlit for data-driven web apps
-
--   :material-database:{ .lg .middle } **Data & Cloud**
+-   :material-star-four-points:{ .lg .middle } **Application & Web Development**
 
     ---
 
-    - PostgreSQL + PostGIS
-    - Cloud storage: AWS S3, Google Cloud Storage
-    - Data formats: GeoJSON, GeoTIFF, NetCDF, Zarr, GeoParquet
+    - ArcGIS Experience Builder, ArcGIS Dashboard, ArcGIS Field Maps, ArcGIS Survey 123
+    - GitHub, Visual Studio Code
+    - HTML, CSS, JavaScript, Markdown
 
--   :material-airplane:{ .lg .middle } **Drone / UAV Data Processing**
+-   :material-code-braces:{ .lg .middle } **Analytics & Automation**
 
-    - Mission planning and flight operations
-    - Photogrammetry: Agisoft Metashape, OpenDroneMap
-    - Point cloud processing: CloudCompare, PDAL
+    ---
+
+    - ArcGIS Spatial Analyst, Model Builder
+    - Python, ArcGIS Notebook
+    - Microsoft Power Automate
 </div>
 
 
@@ -118,5 +99,5 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
 ## Connect
 
-[GitHub](https://github.com/[YOUR-GITHUB-USERNAME]){ .md-button }
-[LinkedIn](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]){ .md-button }
+[GitHub](https://github.com/marcgaeta/gis-portfolio.git){ .md-button }
+[LinkedIn](https://linkedin.com/in/marcgaeta){ .md-button }
