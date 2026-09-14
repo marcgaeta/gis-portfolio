@@ -4,9 +4,9 @@
 
 ## Overview
 
-Created a simple application with an interactive map to quickly lookup parcels and reference GIS data against historical paper maps of coal tracts. Eliminates the manual search and review process comparing a digitial map against local image files, significantly reducing the time needed to confirm tract ownership.
+Created a website to serve as a GIS resource hub for a municipal government. Built out the site
 
-**Study Area:** Schuylkill County  
+**Study Area:** South Whitehall Township  
 **Role:** Solo project  
 **Status:** Completed
 
@@ -16,25 +16,26 @@ Created a simple application with an interactive map to quickly lookup parcels a
 
 **Data Sources**
 
-- Scanned images of historical coal tract paper maps
-- Existing County parcel data
+- Legacy data
+- 
 
 **Processing Steps**
 
-1. Created a basemap of parcel, municipal boundary, and coal tract data
-2. Imported scanned images to project and manually georeferenced them to align to the basemap parcels
-3. Built a user application with a simple interface for searching by parcel location and toggling georeferenced images 
-4. Created ArcGIS Online account for a non-technical user and provided training on application access and use
+1. Deployed a website template
+2. Used HTML and CSS to create a custom layout and styling 
+3. Built out the website as a hosting site of maps, applications, and pages for subsequent projects
+4. Maintained the content of the site and managed access
 
 **Tools Used**
 
 | Tool | Purpose |
 |------|---------|
-| ArcGIS Pro |  Basemap creation and georeferencing |
-| ArcGIS Experience Builder | Built simple application interface for non-technical users |
-
+| ArcGIS Hub |  Website creation |
+| HTML / CSS |  Website custumisation |
+| ArcGIS Experience Builder |  Application development |
+| Microsoft Power Automate |  Automated email app integration |
 ---
 
 ## Links
 
-[View Dashboard](https://services.co.schuylkill.pa.us/portal/apps/experiencebuilder/experience/?id=4653a20cdc4b4fa78577d797094abac6){ .md-button }
+[View Dashboard](https://resident-resource-hub-swt-public-works.hub.arcgis.com/){ .md-button }
