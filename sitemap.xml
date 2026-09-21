@@ -2,54 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://github.com/marcgaeta/gis-portfolio.git/</loc>
-         <lastmod>2026-09-14</lastmod>
+         <lastmod>2026-09-21</lastmod>
     </url>
     <url>
          <loc>https://github.com/marcgaeta/gis-portfolio.git/contact/</loc>
-         <lastmod>2026-09-14</lastmod>
+         <lastmod>2026-09-21</lastmod>
     </url>
     <url>
          <loc>https://github.com/marcgaeta/gis-portfolio.git/experience/</loc>
-         <lastmod>2026-09-14</lastmod>
+         <lastmod>2026-09-21</lastmod>
     </url>
     <url>
          <loc>https://github.com/marcgaeta/gis-portfolio.git/gallery/</loc>
-         <lastmod>2026-09-14</lastmod>
+         <lastmod>2026-09-21</lastmod>
     </url>
     <url>
          <loc>https://github.com/marcgaeta/gis-portfolio.git/projects/</loc>
-         <lastmod>2026-09-14</lastmod>
+         <lastmod>2026-09-21</lastmod>
     </url>
     <url>
          <loc>https://github.com/marcgaeta/gis-portfolio.git/projects/coal-reference/</loc>
-         <lastmod>2026-09-14</lastmod>
+         <lastmod>2026-09-21</lastmod>
     </url>
     <url>
          <loc>https://github.com/marcgaeta/gis-portfolio.git/projects/housing-survey/</loc>
-         <lastmod>2026-09-14</lastmod>
+         <lastmod>2026-09-21</lastmod>
+    </url>
+    <url>
+         <loc>https://github.com/marcgaeta/gis-portfolio.git/projects/park-assets/</loc>
+         <lastmod>2026-09-21</lastmod>
+    </url>
+    <url>
+         <loc>https://github.com/marcgaeta/gis-portfolio.git/projects/ped-shed/</loc>
+         <lastmod>2026-09-21</lastmod>
     </url>
     <url>
          <loc>https://github.com/marcgaeta/gis-portfolio.git/projects/sample-notebook/</loc>
-         <lastmod>2026-09-14</lastmod>
+         <lastmod>2026-09-21</lastmod>
     </url>
     <url>
          <loc>https://github.com/marcgaeta/gis-portfolio.git/projects/sample-project/</loc>
-         <lastmod>2026-09-14</lastmod>
+         <lastmod>2026-09-21</lastmod>
     </url>
     <url>
          <loc>https://github.com/marcgaeta/gis-portfolio.git/projects/site-analysis/</loc>
-         <lastmod>2026-09-14</lastmod>
+         <lastmod>2026-09-21</lastmod>
     </url>
     <url>
          <loc>https://github.com/marcgaeta/gis-portfolio.git/projects/static-maps/</loc>
-         <lastmod>2026-09-14</lastmod>
+         <lastmod>2026-09-21</lastmod>
     </url>
     <url>
          <loc>https://github.com/marcgaeta/gis-portfolio.git/projects/swt-hub/</loc>
-         <lastmod>2026-09-14</lastmod>
+         <lastmod>2026-09-21</lastmod>
     </url>
     <url>
          <loc>https://github.com/marcgaeta/gis-portfolio.git/projects/zp-dashboard/</loc>
-         <lastmod>2026-09-14</lastmod>
+         <lastmod>2026-09-21</lastmod>
     </url>
 </urlset>
