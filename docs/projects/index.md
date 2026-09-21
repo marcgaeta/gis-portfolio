@@ -23,10 +23,9 @@ A selection of my geospatial projects. Click any card to see the full write-up.
 
 **[Zoning Permit Tracker](zp-dashboard.md)**
 
-[YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
-and what you found or built.]
+[An ArcGIS Survey123 application for submitting Zoning Permit applications and maintaining records.]
 
-`[TOOL 1]` `[TOOL 2]` `[TOOL 3]`
+`[Python]` `[Survey Connect]` `[ArcGIS Pro]`
 
 [View Project →](zp-dashboard.md){ .md-button }
 </div>
@@ -36,10 +35,9 @@ and what you found or built.]
 
 **[Coal Tract Lookup](coal-reference.md)**
 
-[YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
-and what you found or built.]
+[An ArcGIS Experience Builder parcel lookup application for digitally referencing historical paper coal maps.]
 
-`[TOOL 1]` `[TOOL 2]` `[TOOL 3]`
+`[Experience Builder]` `[Georeferencing]` `[ArcGIS Portal]`
 
 [View Project →](coal-reference.md){ .md-button }
 </div>
@@ -49,10 +47,9 @@ and what you found or built.]
 
 **[Resource Hub Site](swt-hub.md)**
 
-[YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
-and what you found or built.]
+[A public facing website serving as a central hub for South Whitehall Township residents to access GIS-based applications and resources.]
 
-`[TOOL 1]` `[TOOL 2]` `[TOOL 3]`
+`[ArcGIS Hub]` `[HTML]` `[CSS]`
 
 [View Project →](swt-hub.md){ .md-button }
 </div>
@@ -62,10 +59,9 @@ and what you found or built.]
 
 **[Site Suitability Analysis](site-analysis.md)**
 
-[YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
-and what you found or built.]
+[A weighted overlay analysis to determine site suitability and inform deciiosn-making for a community housing project in Schuylkill County, Pennsylvania.]
 
-`[TOOL 1]` `[TOOL 2]` `[TOOL 3]`
+`[ArcGIS Storymaps]` `[Model Builder]` `[Spatial Analysis]`
 
 [View Project →](site-analysis.md){ .md-button }
 </div>
@@ -75,10 +71,9 @@ and what you found or built.]
 
 **[Flood Mapping](static-maps.md)**
 
-[YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
-and what you found or built.]
+[A technical map series detailing dam inundation areas and emergency points of interests in support of Schuylkill County's update to it's Emergency Action Plan.]
 
-`[TOOL 1]` `[TOOL 2]` `[TOOL 3]`
+`[ArcGIS Pro]` `[Microsoft Word]` `[Adobe Acrobat]`
 
 [View Project →](static-maps.md){ .md-button }
 </div>
@@ -88,12 +83,35 @@ and what you found or built.]
 
 **[Housing Survey](housing-survey.md)**
 
-[YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
-and what you found or built.]
+[A team project to survey housing conditions in Schuylkill County, Pennsylvania.]
 
-`[TOOL 1]` `[TOOL 2]` `[TOOL 3]`
+`[ArcGIS Pro]` `[ArcGIS Survey123]` `[Microsoft Powerpoint]`
 
 [View Project →](housing-survey.md){ .md-button }
+</div>
+
+<div class="project-card" markdown>
+![](../assets/images/ped-shed.png)
+
+**[Walkability Analysis](ped-shed.md)**
+
+[A spatial anlysis to determine the walkability scale of school zone areas in South Whitehall Township, Pennsylvania.]
+
+`[Spatial Analysis]` `[ArcGIS Pro]` `[Digitization]`
+
+[View Project →](ped-shed.md){ .md-button }
+</div>
+
+<div class="project-card" markdown>
+![](../assets/images/park-assets.png)
+
+**[Park Asset Inventory](park-assets.md)**
+
+[A project to GPS locate and inventory park assets in support of Schuylkill County's new Parks, Recreation, & Open Space Plan.]
+
+`[ArcGIS Field Maps]` `[ArcGIS Dashboard]` `[ArcGIS Experience Builder]`
+
+[View Project →](park-assets.md){ .md-button }
 </div>
 
 </div>

@@ -4,7 +4,9 @@
 
 ## Overview
 
-Created a simple application with an interactive map to quickly lookup parcels and reference GIS data against historical paper maps of coal tracts. Eliminates the manual search and review process comparing a digitial map against local image files, significantly reducing the time needed to confirm tract ownership.
+Collaborated with a human services organization collective to idenitify potential sites for a low income halfway housing project. Criteria included proximity to schools and grocery stores, availability of water and sewer service, and access to public transportation. 
+
+**Skill Highlight:** Working with different data types
 
 **Study Area:** Schuylkill County  
 **Role:** Solo project  
@@ -16,25 +18,27 @@ Created a simple application with an interactive map to quickly lookup parcels a
 
 **Data Sources**
 
-- Scanned images of historical coal tract paper maps
-- Existing County parcel data
+- KMZ data of STS bus routes
+- Shapefiles of municipal sewer and water service
+- FEMA flood mapping feature service rest point
+- Tax sale CSV data
 
 **Processing Steps**
 
-1. Created a basemap of parcel, municipal boundary, and coal tract data
-2. Imported scanned images to project and manually georeferenced them to align to the basemap parcels
-3. Built a user application with a simple interface for searching by parcel location and toggling georeferenced images 
-4. Created ArcGIS Online account for a non-technical user and provided training on application access and use
+1. Sourced data according to client's defined criteria and imported into ArcGIS Pro as map features
+2. Buffered all features to a mile and a half-mile distances
+3. Identified parcels included in tax claim sales in which 3 or 4 criteia overlapped
+4. Created an ArcGIS Storymap detailing the processing steps of the project and its results
 
 **Tools Used**
 
 | Tool | Purpose |
 |------|---------|
-| ArcGIS Pro |  Basemap creation and georeferencing |
-| ArcGIS Experience Builder | Built simple application interface for non-technical users |
-
+| ArcGIS Pro | Map creation |
+| Model Builder | Spatial analysis |
+| ArcGIS Storymaps | Presentation |
 ---
 
 ## Links
 
-[View Dashboard](https://services.co.schuylkill.pa.us/portal/apps/storymaps/stories/11f1f36834f94ec1a8f1463988e8a089){ .md-button }
+[View Storymap](https://services.co.schuylkill.pa.us/portal/apps/storymaps/stories/11f1f36834f94ec1a8f1463988e8a089){ .md-button }

@@ -6,6 +6,8 @@
 
 Created a simple application with an interactive map to quickly lookup parcels and reference GIS data against historical paper maps of coal tracts. Eliminates the manual search and review process comparing a digitial map against local image files, significantly reducing the time needed to confirm tract ownership.
 
+**Skill Highlight:** Georeferencing
+
 **Study Area:** Schuylkill County  
 **Role:** Solo project  
 **Status:** Completed
@@ -13,11 +15,6 @@ Created a simple application with an interactive map to quickly lookup parcels a
 ---
 
 ## Methods & Tools
-
-**Data Sources**
-
-- Scanned images of historical coal tract paper maps
-- Existing County parcel data
 
 **Processing Steps**
 
@@ -31,7 +28,7 @@ Created a simple application with an interactive map to quickly lookup parcels a
 | Tool | Purpose |
 |------|---------|
 | ArcGIS Pro |  Basemap creation and georeferencing |
-| ArcGIS Experience Builder | Built simple application interface for non-technical users |
+| ArcGIS Experience Builder | Application development |
 
 ---
 

@@ -6,6 +6,8 @@
 
 Created a dashboard with the dual purpose of allowing users to track the status of pending permit applications as well as compiling a historical record of all applications to analyze trends. Included is a backend functionality to export custom report documents.
 
+**Skill Highlight:** Data handling / cleaning
+
 **Study Area:** Schuylkill County  
 **Role:** Solo project  
 **Status:** Completed
@@ -13,12 +15,6 @@ Created a dashboard with the dual purpose of allowing users to track the status 
 ---
 
 ## Methods & Tools
-
-**Data Sources**
-
-- Survey123 submissions
-- Existing County parcel data
-- Historical application records (migrated from Excel)
 
 **Processing Steps**
 
