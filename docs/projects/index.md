@@ -81,7 +81,7 @@ A selection of my geospatial projects. Click any card to see the full write-up.
 <div class="project-card" markdown>
 ![](../assets/images/training-pdf.png)
 
-**[Housing Survey](training-pdf.md)**
+**[Housing Survey](housing-survey.md)**
 
 [A team project to survey housing conditions in Schuylkill County, Pennsylvania.]
 
