@@ -32,14 +32,8 @@ CHECKLIST FOR THIS PAGE:
 <div class="about-section" markdown>
 <div class="about-text" markdown>
 
-[Replace this paragraph with your own bio. Write 3–4 sentences covering: your background and
-what you specialize in, the kinds of problems you work on, the tools and methods you use,
-and what you are currently looking for. Example below:]
-
-I am a geospatial analyst with a background in data analysis, cartography, and human geography.
-I work on extracting actionable insights from satellite imagery and large spatial datasets
-using Python, Google Earth Engine, and open-source GIS tools. I am passionate about applying
-geospatial techniques to help solve real-world challenges across a multitude of fields. I am currently seeking opportunities in which I can leverage my exisintg skills, as well as develop new ones.
+I am a geospatial analyst based in Allentown, Pennsylvania, with a background in data analysis, cartography, and human geography.
+I'm currently serving as the GIS Analyst/Planner for Schuylkill County, where I manage spatial data infrastructure, support land use and zoning review, and build tools that help departments work more efficiently. My background spans municipal and county government GIS, from field data collection with ArcGIS Field Maps and Survey123 to developing public-facing web applications and dashboards. I hold a Master's degree in Homeland Security with a concentration in Intelligence and Geospatial Analysis from Penn State, along with graduate certificates in GIS and Geospatial Intelligence Analytics. I'm particularly interested in using spatial analysis to support planning decisions and employing cartographic techniques to make stylish yet informative maps. I'm currently seeking opportunities in which I can leverage my exisintg skills, as well as develop new ones, while working toward my GISP certification.
 
 </div>
 

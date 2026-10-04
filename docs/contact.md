@@ -23,9 +23,4 @@ Feel free to reach out through any of the channels below.
 | | |
 |---|---|
 | :material-email: **Email** | marcgaeta@gmail.com(mailto:marcgaeta@gmail.com) |
-| :fontawesome-brands-github: **GitHub** | github.com/marcgaeta/gis-portfolio.git(https://github.com/marcgaeta/gis-portfolio.git) |
 | :fontawesome-brands-linkedin: **LinkedIn** | linkedin.com/in/marcgaeta(https://linkedin.com/in/marcgaeta) |
-
----
-
-[Download CV :material-download:](assets/Marc-CV.pdf){ .md-button .md-button--primary }

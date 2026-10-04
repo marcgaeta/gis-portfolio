@@ -69,7 +69,7 @@ hide:
 <span class="zigzag-timeline-org">TELUS International · Remote</span>
 
 <ul>
-<li>Supported the enhancement of AI and machine learning models by reviewing and analyzing text, image, audio, video, and geospatial data</li>
+<li>Supported the enhancement of AI and machine learning models by reviewing and analyzing text, image, audio, video, and geospatial data from posts on social media platforms</li>
 <li>Consistently completed assigned tasks 20–30% faster than organizational quotas while maintaining excellent quality ratings</li>
 </ul>
 
@@ -106,3 +106,7 @@ GPA 3.98. Relevant coursework: Statistical Analysis for the Social Sciences, Res
 - Fundamentals of Emergency Management (IS-230.e) — FEMA Emergency Management Institute, 2023
 - Introduction to the National Incident Management System (IS-700.b) — FEMA Emergency Management Institute, 2023
 - Leadership and Influence (IS-240.c) — FEMA Emergency Management Institute, 2022
+
+---
+
+[Download CV :material-download:](assets/Marc-CV.pdf){ .md-button .md-button--primary }

@@ -42,7 +42,7 @@ theme:
     - navigation.top             # Back-to-top button when scrolling up
     - content.code.copy          # Copy button on all code blocks
   font:
-    text: Roboto
+    text: Lato
     code: Roboto Mono
 
 extra_css:
@@ -87,8 +87,8 @@ nav:
     - "Housing Survey": projects/housing-survey.md
     - "Flood Mapping": projects/static-maps.md
     - "Walkability Analysis": projects/ped-shed.md
-    - "Request Portal": projects/request-portal.md
     - "Park Assets Inventory": projects/park-assets.md
+    - "Viewshed Analysis": projects/viewshed-analysis.md
     # HOW TO ADD A NEW PROJECT:
     # 1. Copy docs/projects/sample-project.md to docs/projects/your-project-name.md
     #    (or drop an .ipynb file into docs/projects/ for a Jupyter notebook project)
