@@ -48,7 +48,7 @@ Designed and produced a multi-page, high-resolution technical map series of dam 
 **Skill Highlight:** Techincal map and document creation
 
 **Study Area:** Schuylkill County  
-**Role:** Contributor 
+**Role:** Contributor
 **Status:** Completed
 
 ---

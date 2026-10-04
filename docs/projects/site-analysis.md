@@ -16,13 +16,6 @@ Collaborated with a human services organization collective to idenitify potentia
 
 ## Methods & Tools
 
-**Data Sources**
-
-- KMZ data of STS bus routes
-- Shapefiles of municipal sewer and water service
-- FEMA flood mapping feature service rest point
-- Tax sale CSV data
-
 **Processing Steps**
 
 1. Sourced data according to client's defined criteria and imported into ArcGIS Pro as map features
@@ -37,6 +30,7 @@ Collaborated with a human services organization collective to idenitify potentia
 | ArcGIS Pro | Map creation |
 | Model Builder | Spatial analysis |
 | ArcGIS Storymaps | Presentation |
+
 ---
 
 ## Links

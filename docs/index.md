@@ -37,7 +37,7 @@ I'm currently serving as the GIS Analyst/Planner for Schuylkill County, where I 
 
 </div>
 
-<div class="about-image">
+<div class="profile-photo">
   <img src="assets/images/profile.png" alt="Marc Gaeta" class="profile-photo">
 </div>
 
@@ -93,5 +93,5 @@ I'm currently serving as the GIS Analyst/Planner for Schuylkill County, where I 
 
 ## Connect
 
-[GitHub](https://github.com/marcgaeta/gis-portfolio.git){ .md-button }
+[Email](mailto: marcgaeta@gmail.com){ .md-button }
 [LinkedIn](https://linkedin.com/in/marcgaeta){ .md-button }

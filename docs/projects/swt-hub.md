@@ -35,4 +35,4 @@ A public-facing ArcGIS Hub portal aimed at streamlining civic engagement and enh
 
 ## Links
 
-[View Dashboard](https://resident-resource-hub-swt-public-works.hub.arcgis.com/){ .md-button }
+[View Website](https://resident-resource-hub-swt-public-works.hub.arcgis.com/){ .md-button }

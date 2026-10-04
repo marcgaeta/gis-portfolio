@@ -59,7 +59,7 @@ A selection of my geospatial projects. Click any card to see the full write-up.
 
 **[Site Suitability Analysis](site-analysis.md)**
 
-[A weighted overlay analysis to determine site suitability and inform deciiosn-making for a community housing project in Schuylkill County, Pennsylvania.]
+[A weighted overlay analysis to determine site suitability and inform decision-making for a community housing project in Schuylkill County, Pennsylvania.]
 
 `[ArcGIS Storymaps]` `[Model Builder]` `[Spatial Analysis]`
 
@@ -83,7 +83,7 @@ A selection of my geospatial projects. Click any card to see the full write-up.
 
 **[Housing Survey](housing-survey.md)**
 
-[A team project to survey housing conditions in Schuylkill County, Pennsylvania.]
+[A team project to survey housing conditions in Schuylkill County, Pennsylvania as part of a pre-disaster funding initiative.]
 
 `[ArcGIS Pro]` `[ArcGIS Survey123]` `[Microsoft Powerpoint]`
 
@@ -95,7 +95,7 @@ A selection of my geospatial projects. Click any card to see the full write-up.
 
 **[Walkability Analysis](ped-shed.md)**
 
-[A spatial anlysis to determine the walkability scale of school zone areas in South Whitehall Township, Pennsylvania.]
+[A spatial anlysis to determine the walkability of the areas surrounding schools in South Whitehall Township, Pennsylvania.]
 
 `[Network Analyst]` `[ArcGIS Pro]` `[Digitization]`
 
@@ -119,7 +119,7 @@ A selection of my geospatial projects. Click any card to see the full write-up.
 
 **[Viewshed Analysis](viewshed-analysis.md)**
 
-[A project to identify areas in Schuylkill County for potential data centers where they would have the least impact to the community.]
+[A project exploring the impact of potential data centers on the surrounding communities in Schuylkill County, Pennsylvania.]
 
 `[ArcGIS Notebook]` `[Viewshed]` `[Raster Analysis]`
 

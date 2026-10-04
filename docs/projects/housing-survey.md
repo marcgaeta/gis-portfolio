@@ -30,8 +30,9 @@ Developed and executed a mobile spatial data collection project to conduct a com
 | ArcGIS Pro | Custom basemap |
 | ArcGIS Survey Connect | Survey field schema |
 | Microsoft Powerpoint | GIS training documentation |
+
 ---
 
 ## Links
 
-[Training Documentation](https://services.co.schuylkill.pa.us/portal/sharing/rest/content/items/3fa202a0d263466d8dc8a0adb5ee2af8/data){ .md-button }
+[View Training Documentation](https://services.co.schuylkill.pa.us/portal/sharing/rest/content/items/3fa202a0d263466d8dc8a0adb5ee2af8/data){ .md-button }

@@ -18,10 +18,10 @@ Conducted a land suitability analysis to identify candidate parcels for developm
 
 **Processing Steps**
 
-1. Acquired bare-Earth Digital Elevantion Model raster and projected it in the necessary coordinate system to calculate slope.
-2. Drafted a workflow of the analysis steps.
-3. Conducted the analysis (view full workflow below).
-4. Reproduced analysis workflow with python script and instructive markdown in ArcGIS Pro.
+1. Acquired bare-Earth Digital Elevantion Model raster and projected it in the necessary coordinate system to calculate slope
+2. Drafted a workflow of the analysis steps
+3. Conducted the analysis (view full workflow below)
+4. Reproduced analysis workflow with python script and instructive markdown in ArcGIS Pro
 
 **Tools Used**
 

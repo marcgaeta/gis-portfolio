@@ -34,4 +34,4 @@ Created a simple application with an interactive map to quickly lookup parcels a
 
 ## Links
 
-[View Dashboard](https://services.co.schuylkill.pa.us/portal/apps/experiencebuilder/experience/?id=4653a20cdc4b4fa78577d797094abac6){ .md-button }
+[View Application](https://services.co.schuylkill.pa.us/portal/apps/experiencebuilder/experience/?id=4653a20cdc4b4fa78577d797094abac6){ .md-button }
