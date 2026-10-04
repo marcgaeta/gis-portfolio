@@ -22,5 +22,5 @@ Feel free to reach out through any of the channels below.
 
 | | |
 |---|---|
-| :material-email: **Email** | marcgaeta@gmail.com(mailto:marcgaeta@gmail.com) |
-| :fontawesome-brands-linkedin: **LinkedIn** | linkedin.com/in/marcgaeta(https://linkedin.com/in/marcgaeta) |
+| :material-email: **Email** | [marcgaeta@gmail.com](mailto:marcgaeta@gmail.com) |
+| :fontawesome-brands-linkedin: **LinkedIn** | [linkedin.com/in/marcgaeta](https://linkedin.com/in/marcgaeta) |

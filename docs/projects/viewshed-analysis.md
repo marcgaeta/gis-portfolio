@@ -35,4 +35,4 @@ Conducted a land suitability analysis to identify candidate parcels for developm
 
 ## Links
 
-[Download Analysis Workflow :material-download:](assets/viewshed-analysis.pdf){ .md-button }
+[Download Analysis Workflow :material-download:](../assets/viewshed-analysis.pdf){ .md-button }

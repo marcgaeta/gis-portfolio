@@ -19,8 +19,8 @@ CHECKLIST FOR THIS PAGE:
 
 
 <div class="hero">
-  <img src="assets/images/profile.png" alt="Marc Gaeta" class="profile-photo">
-  <h1>Marc Gaeta</h1>
+  <img src="assets/images/gis-topo-banner.png" alt="GIS topographic banner" style="width: 100%; height: auto; display: block; border-radius: 8px; margin-bottom: 0.75rem;">
+  <h1><strong>Marc Gaeta</strong></h1>
   <p><strong>GIS Analyst / Planner</strong></p>
   <p><em>Seeking new and exciting opportunities in spatial analysis and planning.</em></p>
 </div>
@@ -38,7 +38,7 @@ I'm currently serving as the GIS Analyst/Planner for Schuylkill County, where I 
 </div>
 
 <div class="about-image">
-  <img src="assets/images/about.png" alt="About">
+  <img src="assets/images/profile.png" alt="Marc Gaeta" class="profile-photo">
 </div>
 
 </div>

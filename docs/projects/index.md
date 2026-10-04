@@ -79,7 +79,7 @@ A selection of my geospatial projects. Click any card to see the full write-up.
 </div>
 
 <div class="project-card" markdown>
-![](../assets/images/housing-survey.png)
+![](../assets/images/training-pdf.png)
 
 **[Housing Survey](training-pdf.md)**
 
