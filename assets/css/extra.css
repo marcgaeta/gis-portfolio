@@ -12,7 +12,7 @@
 .hero {
   text-align: center;
   padding: 1rem 1rem 1.25rem 1rem;
-  background: linear-gradient(135deg, #e8f4f8 0%, #f0f7ff 50%, #e8f0fe 100%);
+  background: linear-gradient(135deg, #EEF3F8 0%, #E4ECF5 50%, #D9E4F0 100%);
   border-radius: 8px;
 }
 
@@ -89,7 +89,7 @@
 
 /* Skills grid cards on the Home page */
 .md-typeset .grid.cards > ul > li {
-  background-color: #f0f7ff;
+  background-color: var(--brand-bg-soft);
 }
 
 /* Project cards on the Projects gallery page */
@@ -97,7 +97,7 @@
   border: 1px solid var(--md-default-fg-color--lightest);
   border-radius: 8px;
   padding: 1rem;
-  background-color: #f0f7ff;
+  background-color: var(--brand-bg-soft);
   transition: box-shadow 0.2s;
 }
 
@@ -423,4 +423,22 @@
 
 .img-lightbox-close:hover {
   background-color: rgba(255, 255, 255, 0.3);
+}
+
+/* Force skill cards grid to a fixed 2-column layout */
+.md-typeset .grid.cards > ul {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0.75rem;
+}
+
+.md-typeset .grid.cards > ul > li {
+  margin: 0;
+  width: 100%;
+}
+
+@media (max-width: 600px) {
+  .md-typeset .grid.cards > ul {
+    grid-template-columns: 1fr;
+  }
 }
