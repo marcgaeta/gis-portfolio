@@ -1,3 +1,14 @@
+/* Brand palette — matches resume/letter documents */
+:root {
+  --md-primary-fg-color: #1F4E79;
+  --md-primary-fg-color--light: #3F6E99;
+  --md-primary-fg-color--dark: #163A5A;
+  --md-primary-bg-color: #FFFFFF;
+  --md-primary-bg-color--light: #FFFFFF;
+
+  --brand-bg-soft: #EEF3F8;
+}
+
 /* Profile photo on the Home page */
 .profile-photo {
   border-radius: 50%;
