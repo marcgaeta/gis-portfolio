@@ -453,3 +453,26 @@
     grid-template-columns: 1fr;
   }
 }
+
+/* Keep hero text readable in dark mode — the hero background stays
+   light regardless of theme, so its text shouldn't follow the
+   light/dark color switch */
+.hero,
+.hero h1,
+.hero p,
+.hero p strong,
+.hero p em {
+  color: #1a2b3d;
+}
+
+.hero p strong {
+  color: #1F4E79;
+}
+
+/* Match sidebars to the hero box's blue */
+.md-sidebar--primary .md-sidebar__scrollwrap,
+.md-sidebar--secondary .md-sidebar__scrollwrap {
+  background: linear-gradient(135deg, #EEF3F8 0%, #E4ECF5 50%, #D9E4F0 100%);
+  border-radius: 8px;
+  padding: 0.5rem 0.25rem;
+}
