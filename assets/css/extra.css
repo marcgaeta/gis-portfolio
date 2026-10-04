@@ -476,3 +476,15 @@
   border-radius: 8px;
   padding: 0.5rem 0.25rem;
 }
+
+/* Keep skill card and project card text readable in dark mode —
+   both have a fixed light background regardless of theme */
+.md-typeset .grid.cards > ul > li,
+.md-typeset .grid.cards > ul > li p,
+.md-typeset .grid.cards > ul > li h2,
+.md-typeset .grid.cards > ul > li h3,
+.project-card,
+.project-card h3,
+.project-card p {
+  color: #1a2b3d;
+}
