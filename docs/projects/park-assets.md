@@ -6,7 +6,7 @@
 
 Developed a GIS database of municipal parks and their assets using ArcGIS Field Maps on iPads for in-field data collection. The project supported the development of a new County-wide Parks, Recreation, & Open Space Plan by providing accurate, location-verified asset data across the county's park system. The next phase of the project is designing a dashboard to convey the data in terms of park asset health and amenity coverage to help inform planning at the municipal level.
 
-**Study Area:** Schuylkill County 
+**Study Area:** Schuylkill County  
 **Role:** Contributor  
 **Status:** Ongoing
 

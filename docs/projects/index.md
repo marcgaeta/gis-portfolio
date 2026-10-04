@@ -35,7 +35,7 @@ A selection of my geospatial projects. Click any card to see the full write-up.
 
 **[Coal Tract Lookup](coal-reference.md)**
 
-[An ArcGIS Experience Builder parcel lookup application for digitally referencing historical paper coal maps.]
+[A parcel lookup application for digitally referencing historical paper coal maps.]
 
 `[Experience Builder]` `[Georeferencing]` `[ArcGIS Portal]`
 

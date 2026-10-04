@@ -1,10 +1,10 @@
 # Blight Housing Survey
 
-![Project overview image](../assets/images/training-pdf.png)
+![Project overview image](../assets/images/housing-survey.png)
 
 ## Overview
 
-Developed and executed a mobile spatial data collection project to conduct a comprehensive Housing Stock Survey across Schuylkill County, Pennsylvania. The initiative established a standardized protocol for assessing residential structural conditions, vacancy statuses, and neighborhood blight metrics.
+Developed and executed a mobile spatial data collection project to conduct a comprehensive Housing Stock Survey across Schuylkill County, Pennsylvania. The initiative established a standardized protocol for assessing residential structural conditions, vacancy statuses, and neighborhood blight metrics. Results were shared with community revitalization consultants using a custom ArcGIS Experience Builder application.
 
 **Skill Highlight:** Data integrity best practices
 
