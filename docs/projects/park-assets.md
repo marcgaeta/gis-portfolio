@@ -1,41 +1,36 @@
 # Park Asset Inventory
 
-![Project overview image](../assets/images/swt-hub.png)
+![Project overview image](../assets/images/park-assets.png)
 
 ## Overview
 
-Created a website to serve as a GIS resource hub for a municipal government. Built out the site
+Developed a GIS database of municipal parks and their assets using ArcGIS Field Maps on iPads for in-field data collection. The project supported the development of a new County-wide Parks, Recreation, & Open Space Plan by providing accurate, location-verified asset data across the county's park system. The next phase of the project is designing a dashboard to convey the data in terms of park asset health and amenity coverage to help inform planning at the municipal level.
 
-**Study Area:** South Whitehall Township  
-**Role:** Solo project  
-**Status:** Completed
+**Study Area:** Schuylkill County 
+**Role:** Contributor  
+**Status:** Ongoing
 
 ---
 
 ## Methods & Tools
 
-**Data Sources**
-
-- Legacy data
-- 
-
 **Processing Steps**
 
-1. Deployed a website template
-2. Used HTML and CSS to create a custom layout and styling 
-3. Built out the website as a hosting site of maps, applications, and pages for subsequent projects
-4. Maintained the content of the site and managed access
+1. Sourced exisiting data from online sources and contacted municipal officials to identify all parks in the County and map their boundaries.
+2. Created an ArcGIS Field Map for data collection.
+3. Customised Field Map using Arcade scritping, default values, and domains to improve data collection efficency while maintaining database integrity.
+4. Used Field Map to GPS-locate, assess the condition of, and photograph over 10,000 assets across 181 parks.
 
 **Tools Used**
 
 | Tool | Purpose |
 |------|---------|
-| ArcGIS Hub |  Website creation |
-| HTML / CSS |  Website custumisation |
-| ArcGIS Experience Builder |  Application development |
-| Microsoft Power Automate |  Automated email app integration |
+| ArcGIS Pro |  Database and basemap creation |
+| ArcGIS Field Map |  Form creation and customisation for data collection |
+| iPad |  GPS-locate and photograph park assets |
+| ArcGIS Dashboard |  Data results presentation |
 ---
 
 ## Links
 
-[View Dashboard](https://resident-resource-hub-swt-public-works.hub.arcgis.com/){ .md-button }
+[View Application](https://services.co.schuylkill.pa.us/portal/apps/instant/sidebar/index.html?appid=f29c5be7ec594233895170764c8aa68c){ .md-button }

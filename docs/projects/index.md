@@ -81,7 +81,7 @@ A selection of my geospatial projects. Click any card to see the full write-up.
 <div class="project-card" markdown>
 ![](../assets/images/housing-survey.png)
 
-**[Housing Survey](housing-survey.md)**
+**[Housing Survey](training-pdf.md)**
 
 [A team project to survey housing conditions in Schuylkill County, Pennsylvania.]
 
@@ -97,7 +97,7 @@ A selection of my geospatial projects. Click any card to see the full write-up.
 
 [A spatial anlysis to determine the walkability scale of school zone areas in South Whitehall Township, Pennsylvania.]
 
-`[Spatial Analysis]` `[ArcGIS Pro]` `[Digitization]`
+`[Network Analyst]` `[ArcGIS Pro]` `[Digitization]`
 
 [View Project →](ped-shed.md){ .md-button }
 </div>
@@ -112,6 +112,18 @@ A selection of my geospatial projects. Click any card to see the full write-up.
 `[ArcGIS Field Maps]` `[ArcGIS Dashboard]` `[ArcGIS Experience Builder]`
 
 [View Project →](park-assets.md){ .md-button }
+</div>
+
+<div class="project-card" markdown>
+![](../assets/images/viewshed-analysis.png)
+
+**[Viewshed Analysis](viewshed-analysis.md)**
+
+[A project to identify areas in Schuylkill County for potential data centers where they would have the least impact to the community.]
+
+`[ArcGIS Notebook]` `[Viewshed]` `[Raster Analysis]`
+
+[View Project →](viewshed-analysis.md){ .md-button }
 </div>
 
 </div>

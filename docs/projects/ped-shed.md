@@ -4,9 +4,9 @@
 
 ## Overview
 
-Created a website to serve as a GIS resource hub for a municipal government. Built out the site
+Conducted a sidewalk connectivity study for South Whitehall Township, analyzing pedestrian access to schools through network-distance modeling. The analysis mapped quarter-mile and half-mile walking distances from each school along the existing sidewalk, crosswalk, and street centerline network, identifying gaps in sidewalk coverage and areas where students may lack safe walking access to school.
 
-**Skill Highlight:** Spatial analysis
+**Skill Highlight:** Network analysis
 
 **Study Area:** South Whitehall Township  
 **Role:** Solo project  
@@ -15,12 +15,6 @@ Created a website to serve as a GIS resource hub for a municipal government. Bui
 ---
 
 ## Methods & Tools
-
-**Data Sources**
-
-- Aerial imagery tile map
-- PennDOT road classification data
-- Municipal boundary layer
 
 **Processing Steps**
 
@@ -34,6 +28,6 @@ Created a website to serve as a GIS resource hub for a municipal government. Bui
 | Tool | Purpose |
 |------|---------|
 | ArcGIS Pro |  Map and layout creation |
-| Spatial Analyst |  Pedhsed analysis |
+| Network Analyst |  Walkability analysis |
 
 ---
