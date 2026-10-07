@@ -14,7 +14,7 @@ hide:
   <div class="img-gallery-item"><img src="../assets/images/lu-analysis.png" alt="Land Use Suitability"></div>
   <div class="img-gallery-item"><img src="../assets/images/nbhd-hegins.png" alt="Neighborhood ID"></div>
   <div class="img-gallery-item"><img src="../assets/images/blighted-housing.png" alt="Blighted Housing"></div>
-  <div class="img-gallery-item"><img src="../assets/images/Zoning-esp.png" alt="ESP Zoning"></div>
+  <div class="img-gallery-item"><img src="../assets/images/zoning-esp.png" alt="ESP Zoning"></div>
 </div>
 
 <div class="img-lightbox" id="map-gallery-lightbox">
