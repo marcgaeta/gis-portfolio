@@ -116,6 +116,16 @@
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
 }
 
+/* Hover lift on skill cards, matching the project cards */
+.md-typeset .grid.cards > ul > li {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.md-typeset .grid.cards > ul > li:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
+}
+
 .project-card img {
   width: 100%;
   height: 180px;
