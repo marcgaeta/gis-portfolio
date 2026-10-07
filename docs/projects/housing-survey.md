@@ -1,4 +1,4 @@
-# Blight Housing Survey
+# Housing Condition Survey
 
 ![Project overview image](../assets/images/housing-survey.png)
 
@@ -9,7 +9,7 @@ Developed and executed a mobile spatial data collection project to conduct a com
 **Skill Highlight:** Data integrity best practices
 
 **Study Area:** Schuylkill County  
-**Role:** GIS Team Lead  
+**Role:** Project Lead  
 **Status:** Completed
 
 ---
@@ -28,11 +28,15 @@ Developed and executed a mobile spatial data collection project to conduct a com
 | Tool | Purpose |
 |------|---------|
 | ArcGIS Pro | Custom basemap |
-| ArcGIS Survey Connect | Survey field schema |
-| Microsoft Powerpoint | GIS training documentation |
+| ArcGIS Survey123 Connect | Survey field schema |
+| Microsoft PowerPoint | GIS training documentation |
 
 ---
 
 ## Links
 
 [View Training Documentation](https://services.co.schuylkill.pa.us/portal/sharing/rest/content/items/3fa202a0d263466d8dc8a0adb5ee2af8/data){ .md-button }
+
+---
+
+[← Back to All Projects](../)

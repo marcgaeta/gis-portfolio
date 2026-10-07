@@ -4,7 +4,7 @@
 
 ## Overview
 
-Collaborated with a human services organization collective to idenitify potential sites for a low income halfway housing project. Criteria included proximity to schools and grocery stores, availability of water and sewer service, and access to public transportation. 
+Collaborated with a human services organization collective to identify potential sites for a low income halfway housing project. Criteria included proximity to schools and grocery stores, availability of water and sewer service, and access to public transportation. 
 
 **Skill Highlight:** Working with different data types
 
@@ -20,7 +20,7 @@ Collaborated with a human services organization collective to idenitify potentia
 
 1. Sourced data according to client's defined criteria and imported into ArcGIS Pro as map features
 2. Buffered all features to a mile and a half-mile distances
-3. Identified parcels included in tax claim sales in which 3 or 4 criteia overlapped
+3. Identified parcels included in tax claim sales in which 3 or 4 criteria overlapped
 4. Created an ArcGIS Storymap detailing the processing steps of the project and its results
 
 **Tools Used**
@@ -36,3 +36,7 @@ Collaborated with a human services organization collective to idenitify potentia
 ## Links
 
 [View Storymap](https://services.co.schuylkill.pa.us/portal/apps/storymaps/stories/11f1f36834f94ec1a8f1463988e8a089){ .md-button }
+
+---
+
+[← Back to All Projects](../)

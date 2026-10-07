@@ -15,6 +15,7 @@ site_url: https://github.com/marcgaeta/gis-portfolio.git
 
 theme:
   name: material
+  favicon: assets/images/favicon.png
   # Icon used as both the site logo (header) and browser favicon.
   # Browse icons at https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/
   # and replace "material/earth" with any "material/..." icon name you prefer.
@@ -38,6 +39,7 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
   features:
+    - navigation.path
     - navigation.tabs            # Top-level nav items shown as horizontal tabs
     - navigation.top             # Back-to-top button when scrolling up
     - content.code.copy          # Copy button on all code blocks
@@ -80,14 +82,14 @@ nav:
   - Home: index.md
   - Projects:
     - "All Projects": projects/index.md
-    - "Permit Tracker": projects/zp-dashboard.md
+    - "Zoning Permit Tracker": projects/zp-dashboard.md
     - "Coal Tract Lookup": projects/coal-reference.md
     - "Resource Hub": projects/swt-hub.md
-    - "Site Suitability": projects/site-analysis.md
-    - "Housing Survey": projects/housing-survey.md
+    - "Site Suitability Analysis": projects/site-analysis.md
+    - "Housing Condition Survey": projects/housing-survey.md
     - "Flood Mapping": projects/static-maps.md
     - "Walkability Analysis": projects/ped-shed.md
-    - "Park Assets Inventory": projects/park-assets.md
+    - "Park Asset Inventory": projects/park-assets.md
     - "Viewshed Analysis": projects/viewshed-analysis.md
     # HOW TO ADD A NEW PROJECT:
     # 1. Copy docs/projects/sample-project.md to docs/projects/your-project-name.md

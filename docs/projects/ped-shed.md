@@ -31,3 +31,5 @@ Conducted a sidewalk connectivity study for South Whitehall Township, analyzing 
 | Network Analyst |  Walkability analysis |
 
 ---
+
+[← Back to All Projects](../)

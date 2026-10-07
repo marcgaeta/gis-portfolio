@@ -1,4 +1,4 @@
-# Site Suitability Analysis
+# Flood Mapping
 
 <div class="pdf-slideshow" id="zoning-tracker-slideshow">
   <div class="pdf-slideshow-track">
@@ -45,10 +45,10 @@
 
 Designed and produced a multi-page, high-resolution technical map series of dam inundation areas for an update to the Schuylkill County, Pennsylvania Emergency Action Plan (EAP). The map series delineates modeled flood inundation boundaries across a gridded tile map to support emergency responders and local planning authorities in flood risk visualization and evacuation management.
 
-**Skill Highlight:** Techincal map and document creation
+**Skill Highlight:** Technical map and document creation
 
 **Study Area:** Schuylkill County  
-**Role:** Contributor
+**Role:** Contributor  
 **Status:** Completed
 
 ---
@@ -71,3 +71,5 @@ Designed and produced a multi-page, high-resolution technical map series of dam 
 | Word & PDF Processor |  Technical documentation |
 
 ---
+
+[← Back to All Projects](../)

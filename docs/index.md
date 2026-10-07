@@ -33,7 +33,7 @@ CHECKLIST FOR THIS PAGE:
 <div class="about-text" markdown>
 
 I am a geospatial analyst based in Allentown, Pennsylvania, with a background in data analysis, cartography, and human geography.
-I'm currently serving as the GIS Analyst/Planner for Schuylkill County, where I manage spatial data infrastructure, support land use and zoning review, and build tools that help departments work more efficiently. My background spans municipal and county government GIS, from field data collection with ArcGIS Field Maps and Survey123 to developing public-facing web applications and dashboards. I hold a Master's degree in Homeland Security with a concentration in Intelligence and Geospatial Analysis from Penn State, along with graduate certificates in GIS and Geospatial Intelligence Analytics. I'm particularly interested in using spatial analysis to support planning decisions and employing cartographic techniques to make stylish yet informative maps. I'm currently seeking opportunities in which I can leverage my exisintg skills, as well as develop new ones, while working toward my GISP certification.
+I'm currently serving as the GIS Analyst/Planner for Schuylkill County, where I manage spatial data infrastructure, support land use and zoning review, and build tools that help departments work more efficiently. My background spans municipal and county government GIS, from field data collection with ArcGIS Field Maps and Survey123 to developing public-facing web applications and dashboards. I hold a Master's degree in Homeland Security with a concentration in Intelligence and Geospatial Analysis from Penn State, along with graduate certificates in GIS and Geospatial Intelligence Analytics. I'm particularly interested in using spatial analysis to support planning decisions and employing cartographic techniques to make stylish yet informative maps. I'm currently seeking opportunities in which I can leverage my existing skills, as well as develop new ones, while working toward my GISP certification.
 
 </div>
 
@@ -45,8 +45,8 @@ I'm currently serving as the GIS Analyst/Planner for Schuylkill County, where I 
 
 ---
 
-[View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
-[Download CV :material-download:](assets/Marc-CV.pdf){ .md-button }
+[View Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
+[Download Resume :material-download:](assets/Marc-CV.pdf){ .md-button }
 
 
 ---
@@ -67,7 +67,7 @@ I'm currently serving as the GIS Analyst/Planner for Schuylkill County, where I 
 
     ---
 
-    - ArcGIS Pro, QGIS, Leaflet.js, Google My Maps, ArcGIS Urban
+    - ArcGIS Pro, QGIS, ArcGIS Enterprise, Leaflet.js, ArcGIS Urban
     - Heads-up Digitizing, Georeferencing, Field Mapping
     - Shapefile, File Geodatabase, KML, GeoTIFF
 
@@ -75,7 +75,7 @@ I'm currently serving as the GIS Analyst/Planner for Schuylkill County, where I 
 
     ---
 
-    - ArcGIS Experience Builder, ArcGIS Dashboard, ArcGIS Field Maps, ArcGIS Survey 123
+    - ArcGIS Experience Builder, ArcGIS Dashboard, ArcGIS Field Maps, ArcGIS Survey123
     - GitHub, Visual Studio Code, MkDocs
     - HTML, CSS, JavaScript, Markdown
 

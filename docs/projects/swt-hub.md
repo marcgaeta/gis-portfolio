@@ -28,7 +28,7 @@ A public-facing ArcGIS Hub portal aimed at streamlining civic engagement and enh
 | Tool | Purpose |
 |------|---------|
 | ArcGIS Hub |  Website creation |
-| HTML / CSS |  Website custumisation |
+| HTML / CSS |  Website custumization |
 | ArcGIS Experience Builder |  Application development |
 
 ---
@@ -36,3 +36,7 @@ A public-facing ArcGIS Hub portal aimed at streamlining civic engagement and enh
 ## Links
 
 [View Website](https://resident-resource-hub-swt-public-works.hub.arcgis.com/){ .md-button }
+
+---
+
+[← Back to All Projects](../)

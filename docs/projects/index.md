@@ -71,7 +71,7 @@ A selection of my geospatial projects. Click any card to see the full write-up.
 
 **[Flood Mapping](static-maps.md)**
 
-[A technical map series detailing dam inundation areas and emergency points of interests in support of Schuylkill County's update to it's Emergency Action Plan.]
+[A technical map series detailing dam inundation areas and emergency points of interest in support of Schuylkill County's update to its Emergency Action Plan.]
 
 `[ArcGIS Pro]` `[Microsoft Word]` `[Adobe Acrobat]`
 
@@ -95,7 +95,7 @@ A selection of my geospatial projects. Click any card to see the full write-up.
 
 **[Walkability Analysis](ped-shed.md)**
 
-[A spatial anlysis to determine the walkability of the areas surrounding schools in South Whitehall Township, Pennsylvania.]
+[A spatial analysis to determine the walkability of the areas surrounding schools in South Whitehall Township, Pennsylvania.]
 
 `[Network Analyst]` `[ArcGIS Pro]` `[Digitization]`
 

@@ -6,12 +6,15 @@ hide:
 
 
 <div class="img-gallery" id="map-gallery-gallery">
-  <div class="img-gallery-item"><img src="../assets/images/ped-shed.png" alt="Ped Shed"></div>
+  <div class="img-gallery-item"><img src="../assets/images/physio-provenances.png" alt="Physiographic Provenances"></div>
   <div class="img-gallery-item"><img src="../assets/images/swmp-access.png" alt="Solid Waste Management Plan"></div>
   <div class="img-gallery-item"><img src="../assets/images/zhb-zoning.png" alt="ZHB Zoning"></div>
   <div class="img-gallery-item"><img src="../assets/images/va-historic.png" alt="Historic Charlottesville"></div>
   <div class="img-gallery-item"><img src="../assets/images/HUC-8.png" alt="Watersheds"></div>
   <div class="img-gallery-item"><img src="../assets/images/lu-analysis.png" alt="Land Use Suitability"></div>
+  <div class="img-gallery-item"><img src="../assets/images/nbhd-hegins.png" alt="Neighborhood ID"></div>
+  <div class="img-gallery-item"><img src="../assets/images/blighted-housing.png" alt="Blighted Housing"></div>
+  <div class="img-gallery-item"><img src="../assets/images/Zoning-esp.png" alt="ESP Zoning"></div>
 </div>
 
 <div class="img-lightbox" id="map-gallery-lightbox">
