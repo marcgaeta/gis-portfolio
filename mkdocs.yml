@@ -16,11 +16,12 @@ site_url: https://github.com/marcgaeta/gis-portfolio.git
 theme:
   name: material
   favicon: assets/images/favicon.png
+  logo: assets/images/favicon.png
   # Icon used as both the site logo (header) and browser favicon.
   # Browse icons at https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/
   # and replace "material/earth" with any "material/..." icon name you prefer.
   icon:
-    logo: material/earth
+    logo: material/favicon
   palette:
     # To change the color, edit the 'primary' and 'accent' values below for both
     # the 'default' (light) and 'slate' (dark) schemes.

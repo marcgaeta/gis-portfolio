@@ -109,4 +109,4 @@ GPA 3.98. Relevant coursework: Statistical Analysis for the Social Sciences, Res
 
 ---
 
-[Download CV :material-download:](assets/Marc-CV.pdf){ .md-button .md-button--primary }
+[Download Resume :material-download:](assets/Marc-CV.pdf){ .md-button .md-button--primary }
